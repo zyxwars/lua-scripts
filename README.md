@@ -1,3 +1,10 @@
+# Add custom script
+```
+// %localappdata%/darktable/luarc
+require "import_ignore_patterns"
+```
+
+
 # Lua scripts
 
 ## Description
