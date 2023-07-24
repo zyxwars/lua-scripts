@@ -1,9 +1,13 @@
-# Add custom script
+# Add custom scripts, quick install
 ```
 // %localappdata%/darktable/luarc
 require "import_ignore_patterns"
 ```
 
+```
+cd %localappdata%/darktable
+git clone https://github.com/zyxwars/lua-scripts lua
+```
 
 # Lua scripts
 
